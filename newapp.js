@@ -1,3 +1,4 @@
+//<<<<<<< HEAD
 function createMessage() {
 const noun = ['Everyone ','People ','Pets ','Computers ','Food ','Cars ','Phones ','Homes ','Speakers ','Music '];
 const verb = ['runs ','eats ','hates ','loves ','talks ','yells ','cooks ','cures ','transmits ','infects '];
@@ -12,3 +13,6 @@ console.log(`${noun[numone]}${verb[numtwo]}${subject[numthree]}${adjective[numfo
 }
 
 createMessage();
+//=======
+console.log('test');
+//>>>>>>> 4b7eca098b3eb774dd6956ecd6cb29d59c111eff
